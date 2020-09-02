@@ -1,3 +1,2 @@
-var chalk = require('chalk');
-
-console.log(chalk.green('Starting app in dev mode....')); // eslint-disable-line no-console
+import chalk from "chalk";
+console.log(chalk.green("Starting the App in Dev Mode...")); // eslint-disable-line no-console
